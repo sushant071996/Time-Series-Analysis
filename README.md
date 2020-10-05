@@ -142,7 +142,7 @@ To get Auto Regression Value (p) use PACF plot
 
 ![](Figures/pacf.png)
 
-Forecasting Using Arima Model via consider 2 cofidence interval ( Blue Color= 5% Error , green color = 20% Error)
+Forecasting Using Arima Model and consider 2 cofidence interval ( Blue Color= 5% Error , green color = 20% Error)
 
 ![](Figures/arima.png)
 
